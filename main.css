@@ -220,7 +220,7 @@ max-width: 500px;
 .burger__content{
   
    display:none; 
-   background: #000;
+   background: rgb(0, 0, 0);
 
    width:100%;
    /* height: auto; */
