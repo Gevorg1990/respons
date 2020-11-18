@@ -52,3 +52,9 @@ button.onclick = function (event) {
    console.log(t);
    
 }
+
+window.onload = function () {
+  document.querySelector('.con').style.display="none"
+  document.querySelector('.hid').style.display="block"
+ 
+}
